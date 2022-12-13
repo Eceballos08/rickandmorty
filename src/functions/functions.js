@@ -5,6 +5,4 @@ const charactersAPI = async (state) => {
   state(url.data.results);
 };
 
-const 
-
 export { charactersAPI };
